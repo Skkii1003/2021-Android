@@ -1,0 +1,43 @@
+<resources>
+    <string name="album_app_name">SimpleAlbum</string>
+
+    <string name="test_string">This is test text.</string>
+    <string name="test_long_string">This is test text.This is test text.This is test text.This is test text.This is test text.</string>
+
+    <string name="login_username">Name</string>
+    <string name="login_username_hint">Enter your name here.</string>
+    <string name="login_userage">age</string>
+    <string name="login_userage_hint">Enter your age here.</string>
+    <string name="login_usergender">gender</string>
+    <string name="login_gender_male">male</string>
+    <string name="login_gender_female">female</string>
+    <string name="login_useraddress">address</string>
+    <string name="login_useraddress_hint">Enter your address here.</string>
+    <string name="login_email">Email</string>
+    <string name="login_email_hint">Enter Email Here.</string>
+    <string name="login_password">Password</string>
+    <string name="login_password_hint">Enter Password Here.</string>
+    <string name="login_sign_in">Sign In</string>
+    <string name="login_forgot_password"><u>Forgot password?</u></string>
+    <string name="login_sign_in_with_google">Sign In With Google</string>
+    <string name="login_no_account">Don\'t have an account?</string>
+    <string name="login_sign_up"><u>Sign up</u></string>
+    <string name="login_sign_in_susscess_tip">Signed In</string>
+    <string name="login_sign_in_failure_tip">Sign In Failed</string>
+    <string name="login_agree_licence"><u>I agree with user licence.</u>></string>
+    <string name="album_prev">show prev</string>
+    <string name="album_next">show next</string>
+    <string name="album_no_prev">already first image</string>
+    <string name="album_no_next">already last image</string>
+    <string name="album_app_name_en" translatable="false">SimpleAlbum</string>
+    <string name="login_cancel">Cancel</string>
+    <string name="login_conform">Confirm</string>
+    <string name="signup_success">Sign up success, login please.</string>
+    <string name="signup_fail_data_invalid">Sign up failed, data invalid.</string>
+    <string name="signup_fail_not_agree_licence">Sign up failed, not agree licence.</string>
+
+    <string name="forget_pass_tip">Forget password? We can find it!</string>
+    <string name="forget_pass_no_user">User not sign up!</string>
+    <string name="forget_pass_name_not_match">User name not match!</string>
+    <string name="forget_pass_result">Your password is:</string>
+</resources>
